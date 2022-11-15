@@ -1,1 +1,1 @@
-# kwic_assignment2
+# 웹서비스 설계 및 구현 2차과제
