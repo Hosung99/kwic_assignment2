@@ -1,4 +1,5 @@
-# express_skeleton_html
-Express generator with pure HTML
+npm install후 npm start시 서버작동.
 
-이 프로젝트에서부터 시작하세요
+local db로 연결해놔서 local환경에서만 작동했다. ㅠ
+
+aws ec2로 배포시, 기능 작동안함.
